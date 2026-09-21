@@ -2,7 +2,7 @@
 
 A Machine Learning classification project that predicts the likelihood of heart disease based on clinical and health-related patient features.
 
-🚀 **[Live Demo](YOUR_STREAMLIT_APP_URL_HERE)**
+🚀 **[Live Demo](http://heartdiseaseprediction-n4wh2dzlobofjaf2ghomuh.streamlit.app/)**
 
 ## 📌 Overview
 
